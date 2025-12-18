@@ -8,9 +8,11 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-site.example.com',
+  url: 'https://sngraphics12.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/',
+  baseUrl: '/Robotics-book/',
+  organizationName: 'sngraphics12',
+  projectName: 'Robotics-book',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
